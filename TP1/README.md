@@ -1,6 +1,7 @@
 # TPC1
 
-- 13/01/2025
+![Nome do Autor](../profile.jpg)  
+- 13/02/2025
 - Miguel Gramoso, a100835
 
 ## Resumo
