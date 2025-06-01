@@ -2,7 +2,7 @@
 
 ![Nome do Autor](../profile.jpg)  
 - 26/02/2025
-- Miguel Gramoso, a100835
+- Miguel Afonso Gramoso, a100835
 
 ## Resumo
 

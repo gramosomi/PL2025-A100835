@@ -1,7 +1,7 @@
 # TPC12
 ![Nome do Autor](../profile.jpg)  
 - 21/02/2025
-- Miguel Gramoso, a100835
+- Miguel Afonso Gramoso, a100835
 
 ## Resumo
 
